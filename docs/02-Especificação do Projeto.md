@@ -2,77 +2,68 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A designação do problema neste projeto foi consolidada através de uma pesquisa realizada com a participação de 133 pessoas, obtida pelos membros da equipe por meio de questionários. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários. 
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+|  Persona    |  José Silva   |  Maria Oliveira      |                             
+|-------------|---------------|----------------------|
+|  Idade: |  31 anos   |  19 anos  |
+|  Estado: |  Minas Gerais  |  Rio de Janeiro  |
+|  Ocupação:  |  Professor  |  Estudante |
+|  Hábitos de Leitura: |  Lê com frequência.|  Lê algumas vezes ao ano  |
+|  Costuma guardar livros já lidos:|  Não |  Sim |
+|  O que te faz guardar um livro:   |  Guardo apenas os livros que gostei muito. |  Falta de opção prática para me desfazer|
+|  Conhece alguma plataforma para troca de livros:|  Não, não conheço |  Sim, mas nunca utilizei. |
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão dos hábitos de leitura e interesses das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários. 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`|QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                                     |
+|--------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------|
+|  Josá Silva        | Contar sobre sua experiência de leitura                           | Encontrar uma comunidade de fãs do seu escritor favorito.                  |
+|  Maria Oliveira    |  Comentar resenhas de outros leitores                             |  Estabelecer conexões com outros leitores                                  |
+|  Josá Silva        |  Me desfazer de livros que não leio mais ou que não gostei.       |  Liberar espaço na minha estante e adquirir novos livros                   |
+|  Maria Oliveira    |Fazer minhas próprias resenhas de livros que já li                 |  Expor minhas opiniões e encontrar leitores com gostos e opiniões parecidas|
+|  Josá Silva        | Fazer doações de livros                                           |  Promover a leitura e a alfabetização no Brasil                            |
+|  Maria Oliveira    | Trocar livros que já li por livros novos                          |  Otimizar meu espaço físico e investimento em leitura                      |
+|  Josá Silva        |  Adquirir novos livros com baixo custo                            |  Manter ávido o hábito de leitura com recursos limitados                   |
+|  Maria Oliveira    |  Buscar referências e opiniões sobre um livro que deseja conhecer |  Ampliar o interesse em diferentes gêneros literários                      |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+## Requisitos do Projeto 
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|  ID    |  Descrição do Requisito  |  Prioridade |
+|--------|-----------------------------------------|----|
+|  RF-001|  O site deve permitir que os usuários criem o seu perfil na página.| ALTA | 
+|  RF-002|  O site deve permitir que os usuários cadastrem os seus livros disponíveis para troca ou doação.  | ALTA |
+|  RF-003|  O site deve apresentar na página principal um motor de busca, tutorial de utilização do site e sugestões de livros disponíveis para troca.| ALTA | 
+|  RF-004|  O site deve oferecer um menu com todos os livros cadastrados, separados por categoria. | MÉDIA |
+|  RF-005|  O site deve oferecer um sistema de pontuação para troca de livros, um livro enviado é igual a um ponto que você poderá utilizar para adquirir outro. | ALTA| 
+|  RF-006|  O site deve permitir a criação de resenhas de livros já lidos, assim como avaliá-los.  | MÉDIA |
+|  RF-007|  O site deve permitir marcar como favoritos, livros para trocas futuras| BAIXA | 
+|  RF-008|  O site deve permitir criar clubes de leitura, onde as pessoas podem entrar e interagir sobre seus livros lidos.  | BAIXA |
+|  RF-009|  O site deve permitir a busca por usuário cadastrado.| BAIXA | 
+|  RF-010|  O site deve indicar ao remetente o endereço da pessoa que adquiriu aquele livro para o envio. O custo será arcado pelo remetente que irá “recuperar” esse valor quando adquirir outro livro que será enviado por outra pessoa. | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);  | ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |  ALTA | 
+|RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade.   | MÉDIA | 
+|RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA | 
 
 ## Restrições
 
@@ -80,12 +71,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 11/12/2022. |
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend. |
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.  |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
