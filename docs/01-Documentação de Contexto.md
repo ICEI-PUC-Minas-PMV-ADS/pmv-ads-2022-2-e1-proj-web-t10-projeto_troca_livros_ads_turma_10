@@ -1,46 +1,37 @@
 # Introdução
+A sustentabilidade é uma prioridade estratégica crescente que atinge diversas camadas da sociedade, tanto a nível governamental, empresarial e social. A organização não governamental WWF define a sustentabilidade como “o desenvolvimento capaz de suprir as necessidades da geração atual, garantindo a capacidade de atender as necessidades das futuras gerações” (WORLD WILDLIFE FUND, 2010). 
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. ESTE É UM TESTE
+Este tema é pauta de tratados internacionais, prioridade nas ações governamentais e agenda primordial das maiores organizações do mundo, cujos principais objetivos são a preservação dos recursos naturais do planeta e a harmonia socioeconômica. 
+
+A nível social, a busca por produtos e serviços que permitam a reutilização, a reciclagem e o descartar responsável tem aumentado consideravelmente. Tatiane Gonsales (2021) constata que “os millennials e a geração Z estão mais preocupados com os impactos ao planeta em relação ao que consomem, investem e até onde trabalham”.  
+
+O advento da Internet tem permitido o alcance de maiores níveis de sustentabilidade através do acesso à informação, produtos e serviços que contribuem para o consumo consciente. 
+
+Diante disso, torna-se fundamental que existam canais que permitam ao usuário acessar serviços online que promovam a troca de bens, doações, reciclagem e demais serviços que possam promover um meio social, econômico e ambiental mais sustentável, garantindo as mesmas ou melhores condições às gerações futuras.  
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Pensando através do contexto de sustentabilidade e consumo consciente, o presente projeto busca dar alternativas para o consumismo, transformando livros parados em moedas de trocas, proporcionando assim, uma diminuição no impacto ambiental e uma democratização do acesso à leitura. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de um site que sirva de intermediário entre usuários e permita a conexão para troca de livros. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar: 
+
+Permitir que os usuários criem perfis com suas preferências para que possam ser feitas sugestões de leituras; 
+
+Criar um fórum interativo para o clube do livro; 
+
+Criar um clube de assinatura de livros onde o usuário recebe um livro surpresa sugerido de acordo com o seu perfil por um preço acessível. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo pesquisa da Nielsen Bookscan, divulgada pelo SNEL (Sindicato Nacional dos Editores de Livros), no primeiro semestre de 2022 os valores dos livros tiveram um aumento de aproximadamente 3,6% devido ao aumento dos custos de produção e insumos, que foram impactados diretamente pela alta da inflação. Tal fato, associado a queda do poder de compra dos brasileiros, torna o acesso à leitura cada vez mais excludente.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+Ainda que todos os tipos de leitores possam usufruir desse tipo de plataforma, o projeto tem como foco as pessoas que tem interesse em trocar livros, seja por possuir muitos, por não ter interesse em guarda-los, ou até mesmo por não estar satisfeito com a compra e querer trocar por outro. 
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Assim, temos como alvo final homens e mulheres entre 18 e 50 anos, que possuem hábito de leitura ou ainda aqueles que se interessem por começar a ler mais. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
