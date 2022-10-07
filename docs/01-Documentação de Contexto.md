@@ -19,11 +19,11 @@ Pensando através do contexto de sustentabilidade e consumo consciente, o presen
 O objetivo geral deste trabalho é a criação de um site que sirva de intermediário entre usuários e permita a conexão para troca de livros. 
 Como objetivos específicos, podemos ressaltar: 
 
-* Permitir que os usuários criem perfis com suas preferências para que possam ser feitas sugestões de leituras; 
+* Permitir aos usuários a criação de perfis pessoais e o cadastro de seus livros para troca ou doação;
 
-* Criar um fórum interativo para o clube do livro; 
+* Permitir a busca de livros disponíveis para troca através de motor de pesquisa;
 
-* Criar um clube de assinatura de livros onde o usuário recebe um livro surpresa sugerido de acordo com o seu perfil por um preço acessível. 
+* Promover a interação entre os usuários através de comentários e mensagens privadas. 
 
 ## Justificativa
 
