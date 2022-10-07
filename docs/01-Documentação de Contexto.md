@@ -27,7 +27,7 @@ Criar um clube de assinatura de livros onde o usuário recebe um livro surpresa 
 
 ## Justificativa
 
-Segundo pesquisa da Nielsen Bookscan, divulgada pelo SNEL (Sindicato Nacional dos Editores de Livros), no primeiro semestre de 2022 os valores dos livros tiveram um aumento de aproximadamente 3,6% devido ao aumento dos custos de produção e insumos, que foram impactados diretamente pela alta da inflação. Tal fato, associado a queda do poder de compra dos brasileiros, torna o acesso à leitura cada vez mais excludente.  
+Segundo pesquisa da Nielsen Bookscan¹, divulgada pelo SNEL (Sindicato Nacional dos Editores de Livros), no primeiro semestre de 2022 os valores dos livros tiveram um aumento de aproximadamente 3,6% devido ao aumento dos custos de produção e insumos, que foram impactados diretamente pela alta da inflação. Tal fato, associado a queda do poder de compra dos brasileiros, torna o acesso à leitura cada vez mais excludente.  
 
 
 ## Público-Alvo
@@ -35,3 +35,4 @@ Ainda que todos os tipos de leitores possam usufruir desse tipo de plataforma, o
 
 Assim, temos como alvo final homens e mulheres entre 18 e 50 anos, que possuem hábito de leitura ou ainda aqueles que se interessem por começar a ler mais. 
 
+¹https://snel.org.br/wp/wp-content/uploads/2022/08/SNEL_07_2022_-_07T_2022.pdf 
