@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 A designação do problema neste projeto foi consolidada através de uma pesquisa realizada com a participação de 133 pessoas, obtida pelos membros da equipe por meio de questionários. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários. 
 
@@ -37,11 +37,9 @@ A partir da compreensão dos hábitos de leitura e interesses das personas ident
 
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
-## Requisitos
+### Requisitos Funcionais
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
-
-### Requisitos Funcionais
 
 |  ID    |  Descrição do Requisito  |  Prioridade |
 |--------|-----------------------------------------|----|
@@ -56,6 +54,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |  RF-009|  O site deve indicar ao remetente o endereço da pessoa que adquiriu aquele livro para o envio. O custo será arcado pelo remetente que irá “recuperar” esse valor quando adquirir outro livro que será enviado por outra pessoa. | ALTA |
 
 ### Requisitos não Funcionais
+
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
