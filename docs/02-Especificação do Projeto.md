@@ -24,13 +24,13 @@ A partir da compreensão dos hábitos de leitura e interesses das personas ident
 
 |EU COMO... `PERSONA`|QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                                     |
 |--------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------|
-|  Josá Silva        | Contar sobre sua experiência de leitura                           | Encontrar uma comunidade de fãs do seu escritor favorito.                  |
+|  José Silva        | Contar sobre sua experiência de leitura                           | Encontrar uma comunidade de fãs do seu escritor favorito.                  |
 |  Maria Oliveira    |  Comentar resenhas de outros leitores                             |  Estabelecer conexões com outros leitores                                  |
-|  Josá Silva        |  Me desfazer de livros que não leio mais ou que não gostei.       |  Liberar espaço na minha estante e adquirir novos livros                   |
+|  José Silva        |  Me desfazer de livros que não leio mais ou que não gostei.       |  Liberar espaço na minha estante e adquirir novos livros                   |
 |  Maria Oliveira    |Fazer minhas próprias resenhas de livros que já li                 |  Expor minhas opiniões e encontrar leitores com gostos e opiniões parecidas|
-|  Josá Silva        | Fazer doações de livros                                           |  Promover a leitura e a alfabetização no Brasil                            |
+|  José Silva        | Fazer doações de livros                                           |  Promover a leitura e a alfabetização no Brasil                            |
 |  Maria Oliveira    | Trocar livros que já li por livros novos                          |  Otimizar meu espaço físico e investimento em leitura                      |
-|  Josá Silva        |  Adquirir novos livros com baixo custo                            |  Manter ávido o hábito de leitura com recursos limitados                   |
+|  José Silva        |  Adquirir novos livros com baixo custo                            |  Manter ávido o hábito de leitura com recursos limitados                   |
 |  Maria Oliveira    |  Buscar referências e opiniões sobre um livro que deseja conhecer |  Ampliar o interesse em diferentes gêneros literários                      |
 
 ## Requisitos do Projeto 
