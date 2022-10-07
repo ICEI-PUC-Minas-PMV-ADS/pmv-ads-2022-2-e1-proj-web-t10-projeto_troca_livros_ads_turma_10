@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO: Desenvolvimento de Aplicação Web Front-End - Turma 10`
 
-`SEMESTRE`
+`2° Semestre de 2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Website em desenvolvimento para Troca de Livros para pessoas desapegadas que desejam se desfazer de livros .
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lucas Augusto Batista 
+* Yuri Junio Batista de Oliveira
+* Thaís Cristine Santana Oliveira
+* Daphine Custodio de Almeida 
+* Samuel Felismino Ribeiro
+* Roander Augusto Trindade 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Josemar Alves Caetano
 
 ## Instruções de utilização
 
