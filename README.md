@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Troca de Livros
 
 `TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
@@ -6,7 +6,9 @@
 
 `2° Semestre de 2022`
 
-Website em desenvolvimento para Troca de Livros para pessoas desapegadas que desejam se desfazer de livros .
+ ![Projeto](img/trocadelivros.png)
+
+Website em desenvolvimento para Troca de Livros para pessoas que não são apegadas em guardar livros, antes preferem passar o livro para outra pessoa em troca de um novo livro para ler
 
 ## Integrantes
 
