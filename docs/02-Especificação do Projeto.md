@@ -8,7 +8,7 @@ A designação do problema neste projeto foi consolidada através de uma pesquis
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
 
-|  Persona    |  José Silva   |  Maria Oliveira      |                             
+|  Persona    |  José Silva ![Persona](img/professor.png)|  Maria Oliveira ![Persona](img/menina.png)     |                             
 |-------------|---------------|----------------------|
 |  Idade: |  31 anos   |  19 anos  |
 |  Estado: |  Minas Gerais  |  Rio de Janeiro  |
