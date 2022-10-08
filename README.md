@@ -6,7 +6,7 @@
 
 `2° Semestre de 2022`
 
- ![Projeto](img/trocadelivros.png)
+ ![Projeto](docs/img/trocadelivros.jpg) 
 
 Website em desenvolvimento para Troca de Livros para pessoas que não são apegadas em guardar livros, antes preferem passar o livro para outra pessoa em troca de um novo livro para ler
 
