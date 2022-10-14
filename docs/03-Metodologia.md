@@ -67,6 +67,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban de acompanhamento das atividades pelo Trello está disponível através da URL https://trello.com/b/VAabS2Lw/projeto-troca-de-livros e é apresentado, no estado atual, na Figura abaixo.  
 
+![Diagrama de Componentes](img/Trello.jpeg)
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
