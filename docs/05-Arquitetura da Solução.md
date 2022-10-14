@@ -1,6 +1,6 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+<span style="color:red">Pré-requisitos: <a href="04-Projeto de Interface.md"> Projeto de Interface</a></span>
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
@@ -10,19 +10,17 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Exemplo: 
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na Figura abaixo.
 
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+![Diagrama de Componentes](img/ArquiteturadeSolucao.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
+     - **Cadastros** - registro de dados de usuários e de livros
+     - **Comentários** - registro de opiniões dos usuários sobre os livros
+     - **Histórico ** - lista as trocas feitas entre usuários e acessos posteriores
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
@@ -60,13 +58,13 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Linguagens utlizadas para desenvolver o projeto: HTML, CSS, JavaScript,PHP,MySql
-IDEs de desenvolvimento: Visual Studio Code
-Plataforma para hospedagem do site: Heroku
-Plataforma para hospedagem dos arquivos: GitHub
-Ferramenta de versionamento: Git/GitKraken
-Ferramenta para a criação de logo e imagens: Canva
-Ferramenta para crição de template: MarvelApp
+- Linguagens utlizadas para desenvolver o projeto: HTML, CSS, JavaScript,PHP,MySql
+- IDEs de desenvolvimento: Visual Studio Code
+- Plataforma para hospedagem do site: Heroku
+- Plataforma para hospedagem dos arquivos: GitHub
+- Ferramenta de versionamento: Git/GitKraken
+- Ferramenta para a criação de logo e imagens: Canva
+- Ferramenta para crição de template: MarvelApp
 
 ## Hospedagem
 
