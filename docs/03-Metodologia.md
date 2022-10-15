@@ -69,6 +69,9 @@ O quadro kanban de acompanhamento das atividades pelo Trello está disponível a
 
 ![Diagrama de Componentes](img/Trello.jpeg)
 
+### Tabela das Sprints do Projeto
+
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
