@@ -9,7 +9,7 @@ Diante os desafios da estruturação do sistema e buscando alternativas para ser
 
 O diagrama apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto. 
 
-![Exemplo de UserFlow](img/fluxodeusuario.png)
+![Exemplo de UserFlow](img/fluxouser.png)
 Figura 1 - Fluxo de telas do usuário.
 
 ## Wireframes
