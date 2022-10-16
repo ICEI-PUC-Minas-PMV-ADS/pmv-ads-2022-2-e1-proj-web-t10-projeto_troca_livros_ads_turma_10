@@ -71,6 +71,9 @@ O quadro kanban de acompanhamento das atividades pelo Trello está disponível a
 
 ### Tabela das Sprints do Projeto
 
+Seguindo as práticas atuais de metodologias ágeis, abaixo  encontra-se o planejamento inicial das sprints para execução do projeto:
+
+![Tabela de sprints](img/sprints.jpeg)
 
 ### Ferramentas
 
