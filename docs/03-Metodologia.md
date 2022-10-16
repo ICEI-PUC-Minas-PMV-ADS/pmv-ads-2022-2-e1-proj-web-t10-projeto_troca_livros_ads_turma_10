@@ -65,15 +65,17 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   * ***Testing:*** Todo o desenvolvimento após ser concluído, é transferido para a seção de testes, aqui as funcionalidade serão testadas e se aprovadas, irão para produção. 
   * ***Done:*** nesta etapa, está a conclusão da atividade, o produto sobe para produção e fica disponível para utilização dos usuários em geral 
 
-O quadro kanban de acompanhamento das atividades pelo Trello está disponível através da URL https://trello.com/b/VAabS2Lw/projeto-troca-de-livros e é apresentado, no estado atual, na Figura abaixo.  
+O quadro kanban de acompanhamento das atividades pelo Trello está disponível através da URL https://trello.com/b/VAabS2Lw/projeto-troca-de-livros e é apresentado, no estado atual, na Figura 1.  
 
 ![Diagrama de Componentes](img/Trello.jpeg)
+Figura 1 - Diagrama de Componentes.
 
 ### Tabela das Sprints do Projeto
 
-Seguindo as práticas atuais de metodologias ágeis, abaixo  encontra-se o planejamento inicial das sprints para execução do projeto:
+Seguindo as práticas atuais de metodologias ágeis, abaixo (Figura 2) encontra-se o planejamento inicial das sprints para execução do projeto:
 
 ![Tabela de sprints](img/sprints.jpeg)
+Figura 2 - Tabela de Sprints.
 
 ### Ferramentas
 
