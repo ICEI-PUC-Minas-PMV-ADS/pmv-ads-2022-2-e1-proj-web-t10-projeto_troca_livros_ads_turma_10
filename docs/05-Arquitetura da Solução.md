@@ -11,6 +11,7 @@ O diagrama permite a modelagem física de um sistema, através da visão dos seu
 Os componentes que fazem parte da solução do presente projeto estão representados na figura X.
 
 ![Diagrama de Componentes](img/diagram.png)
+
 Figura X - Arquitetura da Solução 
 
 A solução implementada conta com os seguintes módulos:
