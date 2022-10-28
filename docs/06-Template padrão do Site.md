@@ -2,10 +2,10 @@
 
 <span style="color:red">Pré-requisitos: <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="04-Projeto de Interface.md"> Projeto de Interface</a>, <a href="03-Metodologia.md"> Metodologia</a>
 
-O padrão de layout a ser utilizado pelo site tem relação com o projeto de Interface elaborado anteriormente, conforme a Figura X.
+O padrão de layout a ser utilizado pelo site tem relação com o projeto de Interface elaborado anteriormente, conforme a Figura 1.
 
 ![Exemplo de Wireframe](img/template.png)
-Figura X - Estrutura padrão do site.
+Figura 1 - Estrutura padrão do site.
 
 O template está disponível no seguinte link: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_troca_livros_ads_turma_10/blob/main/docs/img/template.png  e é composto pelos seguintes layouts: 
 
@@ -21,7 +21,7 @@ O template está disponível no seguinte link: https://github.com/ICEI-PUC-Minas
 
 A responsividade segue o padrão do Bootstrap.
 ### 1.Tela Inicial e de Login
-Tela que abrange o tutorial de uso do site e guia de login.
+Tela que abrange o tutorial de uso do site e guia de login (figura 2).
 ### 2.Tela de Cadastro do Usuário
 Tela que permite aos usuários se cadastrarem para utilizar o site.
 ### 3.Tela de Perfil do Usuário
