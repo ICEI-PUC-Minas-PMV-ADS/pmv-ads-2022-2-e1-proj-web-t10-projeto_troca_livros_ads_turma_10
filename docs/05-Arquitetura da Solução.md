@@ -8,11 +8,11 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 O diagrama permite a modelagem física de um sistema, através da visão dos seus componentes e dos relacionamentos entre os mesmos.
 
-Os componentes que fazem parte da solução do presente projeto estão representados na figura X.
+Os componentes que fazem parte da solução do presente projeto estão representados na figura 1.
 
 ![Diagrama de Componentes](img/diagram.png)
 
-Figura X - Arquitetura da Solução 
+Figura 1 - Arquitetura da Solução 
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
