@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="with=device-width, initial scale=1.0">
+    <title>Fora da Estante</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img class="logo" src="images/foradaestante1.png" alt="logo">
+    </header>
+    <section class="centro">
+        <div class="tutorial">
+            <img class="passos" src="images/passos.png" alt="steps">
+        </div>
+        <div class="arealogin">
+            <h1>Área do Usuário</h1>
+            <div class="formbox">
+                <div class="buttonbox">
+                    <div id="btn"></div>
+                        <button type="button" class="toggle-btn" onclick="login()">Entrar</button>
+                        <button type="button" class="toggle-btn" onclick="register()">Cadastrar</button>
+                </div>
+                <div class="socialicons">
+                    <img src="images/fb.png">
+                    <img src="images/gmail.png">
+                </div>
+                <form id="login" class="input-group">
+                    <input type="text" class="input-field" placeholder="ID Usuário" required>
+                    <input type="text" class="input-field" placeholder="Senha" required>
+                    <input type="checkbox" class="check-box"><span class="span1">Lembrar senha</span>
+                    <button type="submit" class="submit-btn">Entrar</button>
+                </form>
+                <form id="register" class="input-group">
+                    <input type="text" class="input-field" placeholder="ID Usuário" required>
+                    <input type="text" class="input-field" placeholder="E-mail" required>
+                    <input type="text" class="input-field" placeholder="Digite uma senha" required>
+                    <input type="checkbox" class="check-box"><span class="span2">Eu concordo com os termos de privacidade</span>
+                    <button type="submit" class="submit-btn">Cadastrar</button>
+                </form>
+            </div>
+            
+        </div>
+
+        <script>
+            var x = document.getElementById("login");
+            var y = document.getElementById("register");
+            var z = document.getElementById("btn");
+
+            function register(){
+                x.style.left = "-400px";
+                y.style.left = "50px";
+                z.style.left = "110px";
+            }
+
+            function login(){
+                x.style.left = "50px";
+                y.style.left = "450px";
+                z.style.left = "0px";
+            }
+
+        </script>
+
+    </section>
+    
+        <nav>
+            <ul class="nav-links">
+                <li><a href="a">Sobre nós</a></li>
+                <li><a href="a">Como trocar livros?</a></li>
+                <li><a href="a">Privacidade</a></li>
+                <li><a href="a">Contato</a></li>
+            </ul>
+        </nav>
+        <footer>
+            <p class="rights">Site produzido pelo time "Projeto - Troca de Livros". Direitos autorais reservados. </p>
+        </footer>
+        
+    </footer>
+    
+</body>
+
+</html>
