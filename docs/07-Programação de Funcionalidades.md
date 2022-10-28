@@ -1,15 +1,47 @@
-# Programação de Funcionalidades
+# Funcionalidades do Sistema
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+<span style="color:red">Pré-requisitos: <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="03-Metodologia.md"> Metodologia</a>, <a href="05-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema com a atribuição dos requisitos atendidos.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+## 1.	Tela Inicial e de Login (RF-003)
+A tela principal do sistema permite ao usuário realizar o login na plataforma e ver um tutorial de uso da plataforma, além de como o sistema de trocas funciona. Isso tornará o usuário mais familiarizado com a nossa solução.
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+[IMAGEM]
+
+### Requisitos atendidos
+**RF-003** - O site deve apresentar na página principal tutorial de utilização do site e área de cadastro/login.
+
+### Artefatos da funcionalidade
+-	homapage.html
+-	fb.png
+-	style.css
+-	foradaestante1.png
+-	gmail.png
+- livraria.jpeg
+- passos.png
+
+### Estrutura de Dados
+[em desenvolvimento]
+
+### Intruções de Acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: [PEGAR A URL]
+2.	A seção de login é a primeira funcionalidade exibida na tela.
+
+## 2.  Tela de Cadastro do Usuário (RF-001)
+A tela de cadastro do usuário permite que os usuários criem o seu perfil para utilizar a plataforma.
+[em desenvolvimento]
+
+### Artefatos da funcionalidade
+- pesquisa.html
+- script_pesquisa.js
+- style.css
+- icone_lupa.jpg
+
+###Intruções de Acesso 
+3.	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+4.	Descompacte o arquivo em uma pasta específica;
+5.	Abra o Visual Studio Code e execute o Live Server;
+6.	Abra um navegador de Internet e informe a seguinte URL: http://localhost:5500/index.html 
+
+
