@@ -12,7 +12,7 @@ Isso tornará o usuário mais familiarizado com a nossa solução.
 Figura 1 - Homepage do site.
 
 ### Requisitos atendidos
-**RF-003** - O site deve apresentar na página principal tutorial de utilização do site e área de cadastro/login.
+**RF-003** - O site deve apresentar na página principal um tutorial de utilização do site e área de cadastro/login.
 
 ### Artefatos da funcionalidade
 -	homapage.html
@@ -28,11 +28,11 @@ Figura 1 - Homepage do site.
 [em desenvolvimento]
 
 ### Intruções de Acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: [PEGAR A URL]
+1.	Abra o navegador de Internet e informe a seguinte URL: [PEGAR A URL]
 2.	A seção de login é a primeira funcionalidade a ser exibida na tela.
 
 ## 2.  Tela de Cadastro do Usuário (RF-001)
-A tela de cadastro do usuário permite que os usuários criem o seu perfil para uso da plataforma.
+A tela de cadastro do usuário permite que os usuários criem o seu perfil, permitindo o uso da plataforma.
 
 [em desenvolvimento]
 
