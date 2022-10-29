@@ -5,7 +5,8 @@
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema com a atribuição dos requisitos atendidos.
 
 ## 1.	Tela Inicial e de Login (RF-003)
-A tela principal do sistema (figura 1) permite ao usuário realizar o login na plataforma e ver um tutorial de uso da plataforma, além de como o sistema de trocas funciona. Isso tornará o usuário mais familiarizado com a nossa solução.
+A tela principal do sistema (figura 1) é bem intuitita, permitindo ao usuário realizar o login na plataforma, além de apresentar um tutorial de uso do sistema de trocas de livros.
+Isso tornará o usuário mais familiarizado com a nossa solução.
 
 ![Exemplo de Homepage](img/homepagesite.png)
 Figura 1 - Homepage do site.
@@ -28,10 +29,10 @@ Figura 1 - Homepage do site.
 
 ### Intruções de Acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: [PEGAR A URL]
-2.	A seção de login é a primeira funcionalidade exibida na tela.
+2.	A seção de login é a primeira funcionalidade a ser exibida na tela.
 
 ## 2.  Tela de Cadastro do Usuário (RF-001)
-A tela de cadastro do usuário permite que os usuários criem o seu perfil para utilizar a plataforma.
+A tela de cadastro do usuário permite que os usuários criem o seu perfil para uso da plataforma.
 
 [em desenvolvimento]
 
