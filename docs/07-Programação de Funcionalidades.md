@@ -23,6 +23,7 @@ Figura 1 - Homepage do site.
 - passos.png
 
 ### Estrutura de Dados
+
 [em desenvolvimento]
 
 ### Intruções de Acesso
@@ -31,6 +32,7 @@ Figura 1 - Homepage do site.
 
 ## 2.  Tela de Cadastro do Usuário (RF-001)
 A tela de cadastro do usuário permite que os usuários criem o seu perfil para utilizar a plataforma.
+
 [em desenvolvimento]
 
 ### Artefatos da funcionalidade
@@ -39,7 +41,7 @@ A tela de cadastro do usuário permite que os usuários criem o seu perfil para 
 - style.css
 - icone_lupa.jpg
 
-###Intruções de Acesso 
+### Intruções de Acesso 
 3.	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
 4.	Descompacte o arquivo em uma pasta específica;
 5.	Abra o Visual Studio Code e execute o Live Server;
