@@ -22,6 +22,10 @@ O template está disponível no seguinte link: https://github.com/ICEI-PUC-Minas
 A responsividade segue o padrão do Bootstrap.
 ### 1.Tela Inicial e de Login
 Tela que abrange o tutorial de uso do site e guia de login (figura 2).
+
+![Exemplo de Homepage](img/homepagesite.png)
+Figura 2 - Homepage do site.
+
 ### 2.Tela de Cadastro do Usuário
 Tela que permite aos usuários se cadastrarem para utilizar o site.
 ### 3.Tela de Perfil do Usuário
