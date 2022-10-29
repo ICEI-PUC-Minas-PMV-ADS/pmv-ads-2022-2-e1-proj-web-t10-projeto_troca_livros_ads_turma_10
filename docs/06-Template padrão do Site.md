@@ -29,19 +29,19 @@ Figura 2 - Homepage do site.
 ### 2.Tela de Cadastro do Usuário
 Tela que permite aos usuários se cadastrarem para utilizar o site.
 ### 3.Tela de Perfil do Usuário
-Em desenvolvimento
+[em desenvolvimento]
 ### 4.Tela de Configurações
-Em desenvolvimento
+[em desenvolvimento]
 ### 5.Tela de Página do Usuário
-Em desenvolvimento
+[em desenvolvimento]
 ### 6.Tela de Caixa de Entrada
-Em desenvolvimento
+[em desenvolvimento]
 ### 7.Tela de Cadastro do Livro
-Em desenvolvimento
+[em desenvolvimento]
 ### 8.Tela de pesquisa de Livros
-Em desenvolvimento
+[em desenvolvimento]
 ### 9.Tela do Livro Cadastrado
-Em desenvolvimento
+[em desenvolvimento]
 
 
 
