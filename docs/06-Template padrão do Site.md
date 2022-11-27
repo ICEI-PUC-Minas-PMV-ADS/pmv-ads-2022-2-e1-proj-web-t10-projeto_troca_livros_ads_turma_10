@@ -28,8 +28,13 @@ Figura 2 - Homepage do site.
 
 ### 2.Tela de Cadastro do Usuário
 Tela que permite aos usuários se cadastrarem para utilizar o site.
+
 ### 3.Tela de Perfil do Usuário
-[em desenvolvimento]
+Tela que permite aos usuários se cadastrarem para utilizar o site.
+
+![Exemplo de Homepage](img/)
+Figura 2 - Homepage do site.
+
 ### 4.Tela de Configurações
 [em desenvolvimento]
 ### 5.Tela de Página do Usuário
