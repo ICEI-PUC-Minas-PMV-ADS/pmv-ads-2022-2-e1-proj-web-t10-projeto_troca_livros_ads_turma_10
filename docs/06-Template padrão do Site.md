@@ -12,12 +12,14 @@ O template está disponível no seguinte link: https://github.com/ICEI-PUC-Minas
 1. Tela inicial e de login
 2. Tela de cadastro do usuário
 3. Tela de perfil do usuário
-4. Tela de configurações
-5. Tela de página do usuário
-6. Tela de caixa de entrada
-7. Tela de cadastro do livro
-8. Tela de pesquisa de livros
-9. Tela do livro cadastrado
+4. Tela de Esqueci Minha Senha
+5. Tela de Configurações do Perfil
+6. Tela de Caixa de Entrada
+7. Tela de Cadastro do Livro
+8. Tela de Como Trocar os seus Livros
+9. Tela da Política e Privacidade
+10. Tela de Sobre nós
+11. Tela de Formas de Contato
 
 A responsividade segue o padrão do Bootstrap.
 ### 1.Tela Inicial e de Login
@@ -65,22 +67,22 @@ A tela apresenta ao usuário um informativo de possibilidades de troca de livros
 ![Exemplo de Homepage](img/000trocadelivros.jpeg)
 Figura 9 - Troca de Livros.
 
-### 9.Política e Privacidade
+### 9.Tela da Política e Privacidade
 A tela apresenta a política e privacidade do site.
 
 ![Exemplo de Homepage](img/00politicadeprivacidade.jpeg)
 
 Figura 10 - Política e Privacidade.
 
-### 10.Tela Sobre nós
+### 10.Tela de Sobre nós
 A tela apresenta nossos objetivos, quem somos e a proposta da Fora da Estante. 
 
 ![Exemplo de Homepage](img/00sobrenos.jpeg)
 Figura 11 - Sobre nós.
 
-### 11.Tela Contato
+### 11.Tela de Formas de Contato
 A tela apresenta ao usuário os meios de contato com a Fora da Estante.
 
 ![Exemplo de Homepage](img/00contato.jpeg)
-Figura 11 - Contato.
+Figura 11 - Formas de Contato.
 
