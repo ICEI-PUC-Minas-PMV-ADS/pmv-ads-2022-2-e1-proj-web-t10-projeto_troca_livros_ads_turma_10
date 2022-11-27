@@ -30,10 +30,10 @@ Figura 2 - Homepage do site.
 Tela que permite aos usuários se cadastrarem para utilizar o site.
 
 ### 3.Tela de Perfil do Usuário
-Tela que permite aos usuários se cadastrarem para utilizar o site.
+Tela que apresenta ao usuário o perfil cadastrado, uma biografia resumida e os livros de interesse. 
 
-![Exemplo de Homepage](img/)
-Figura 2 - Homepage do site.
+![Exemplo de Homepage](img/00biousuario.jpeg)
+Figura 4 - Perfil do Usuário.
 
 ### 4.Tela de Configurações
 [em desenvolvimento]
