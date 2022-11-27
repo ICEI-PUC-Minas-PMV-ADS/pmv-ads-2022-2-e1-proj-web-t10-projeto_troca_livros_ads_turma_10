@@ -69,6 +69,7 @@ Figura 9 - Troca de Livros.
 A tela apresenta a política e privacidade do site.
 
 ![Exemplo de Homepage](img/00politicadeprivacidade.jpeg)
+
 Figura 10 - Política e Privacidade.
 
 ### 10.Tela Sobre nós
