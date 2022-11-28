@@ -15,7 +15,7 @@ Figura 1 - Homepage do site.
 **RF-003** - O site deve apresentar na página principal um tutorial de utilização do site e área de cadastro/login.
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	homepage.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -41,7 +41,7 @@ Figura 2 - Perfil do Usuário.
 **RF-001** - O site deve permitir que os usuários criem o seu perfil na página e acesso página de perfil. 
 
 ### Artefatos da funcionalidade
--	perfil.html
+-	profile.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -61,7 +61,7 @@ Figura 3 - Esqueci Minha Senha.
 **RF-003** - O site deve apresentar na página principal tutorial de utilização do site e área de cadastro/login e esqueci minha senha. 
 
 ### Artefatos da funcionalidade
--	esquecisenha.html
+-	forgetpassword.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -101,7 +101,7 @@ Figura 5 - Caixa de Entrada.
 **RF-008** - O site deve permitir a busca por usuário cadastrado e caixa de entrada para troca de mensagens. 
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	boxmail.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -122,7 +122,7 @@ Figura 6 - Cadastro do Livro.
 **RF-004** - O site deve oferecer um menu com todos os livros cadastrados, separados por categoria. 
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	creatbook.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -143,7 +143,7 @@ Figura 7 - Troca de Livros.
 **RF-003** - O site deve apresentar na página principal tutorial de utilização do site e área de cadastro/login e esqueci minha senha
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	tradebook.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -163,7 +163,7 @@ Figura 8 - Política e Privacidade.
 **RF-007** - O site deve permitir marcar como favoritos, item sobre nós, formas de contato e política de privacidade. 
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	policy.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -183,7 +183,7 @@ Figura 9 - Sobre nós.
 O site deve permitir marcar como favoritos, item sobre nós, formas de contato e política de privacidade.  
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	aboutus.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
@@ -203,7 +203,7 @@ Figura 10 - Formas de Contato.
 **RF-007** - O site deve permitir marcar como favoritos, item sobre nós, formas de contato e política de privacidade. 
 
 ### Artefatos da funcionalidade
--	homapage.html
+-	contato.html
 -	fb.png
 -	style.css
 -	foradaestante1.png
