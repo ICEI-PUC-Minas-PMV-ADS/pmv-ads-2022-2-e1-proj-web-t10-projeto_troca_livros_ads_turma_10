@@ -43,15 +43,15 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |  ID    |  Descrição do Requisito  |  Prioridade |
 |--------|-----------------------------------------|----|
-|  RF-001|  O site deve permitir que os usuários criem o seu perfil na página.| ALTA | 
-|  RF-002|  O site deve permitir que os usuários cadastrem os seus livros disponíveis para troca ou doação.  | ALTA |
-|  RF-003|  O site deve apresentar na página principal tutorial de utilização do site e área de cadastro/login.| ALTA | 
-|  RF-004|  O site deve oferecer um menu com todos os livros cadastrados, separados por categoria. | MÉDIA |
-|  RF-005|  O site deve oferecer um sistema de pontuação para troca de livros, um livro enviado é igual a um ponto que você poderá utilizar para adquirir outro. | MÉDIA| 
-|  RF-006|  O site deve permitir a criação de resenhas de livros já lidos, assim como avaliá-los.  | MÉDIA |
-|  RF-007|  O site deve permitir marcar como favoritos, livros para trocas futuras| BAIXA | 
-|  RF-008|  O site deve permitir a busca por usuário cadastrado.| BAIXA | 
-|  RF-009|  O site deve indicar ao remetente o endereço da pessoa que adquiriu aquele livro para o envio. O custo será arcado pelo remetente que irá “recuperar” esse valor quando adquirir outro livro que será enviado por outra pessoa. | ALTA |
+|  RF-001|  O site deve permitir que os usuários criem o seu perfil na página e acesso página de perfil. | ALTA | 
+|  RF-002|  O site deve permitir que os usuários cadastrem os seus livros disponíveis para troca ou doação.   | ALTA |
+|  RF-003|  O site deve apresentar na página principal tutorial de utilização do site e área de cadastro/login e esqueci minha senha. | ALTA | 
+|  RF-004|  O site deve oferecer um menu com todos os livros cadastrados, separados por categoria.  | MÉDIA |
+|  RF-005|  O site deve oferecer um sistema de pontuação para troca de livros, um livro enviado é igual a um ponto que você poderá utilizar para adquirir outro.  | MÉDIA| 
+|  RF-006|  O site deve permitir a criação de resenhas de livros já lidos, assim como avaliá-los.  | MÉDIA |
+|  RF-007|  O site deve permitir marcar como favoritos, item sobre nós, formas de contato e política de privacidade. | BAIXA | 
+|  RF-008|  O site deve permitir a busca por usuário cadastrado e caixa de entrada para troca de mensagens. | BAIXA | 
+|  RF-009|  O site deve indicar ao remetente o endereço da pessoa que adquiriu aquele livro para o envio. O custo será arcado pelo remetente que irá “recuperar” esse valor quando adquirir outro livro que será enviado por outra pessoa.  | ALTA |
 
 ### Requisitos não Funcionais
 
