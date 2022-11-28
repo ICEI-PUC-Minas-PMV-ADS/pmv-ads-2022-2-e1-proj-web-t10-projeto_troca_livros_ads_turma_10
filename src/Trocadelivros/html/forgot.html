@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="with=device-width, initial scale=1.0">
+    <title>Fora da Estante</title>
+    <link rel="stylesheet" href="../css/forgotstyle.css">
+</head>
+<body>
+    <header>
+        <img class="logo" src="../assets/images/foradaestante1.png" alt="logo">
+    </header>
+    <section class="main">
+        <div class="tutorial">
+            <h1>Esqueceu a senha?</h1><br>
+            <p>Informe seu e-mail e enviaremos instruções para você recuperar sua senha.</p>
+            <form action="" id="form">
+            <input type="text" class="input-field" placeholder="Digite seu e-mail" required>
+            <button type="submit" class="submit-btn" disabled="disabled" onclick="funcao1()">Enviar</button>
+            </form> 
+            
+        </div>
+
+        <script>
+            
+            function checkInputs(inputs) {
+                var filled = true;
+                inputs.forEach(function(input) {
+                    if(input.value === "") {
+                    filled = false;
+          }
+
+            });
+
+    return filled;
+
+    }
+
+    var inputs = document.querySelectorAll("input");
+    var button = document.querySelector("button");
+
+    inputs.forEach(function(input) {
+  
+    input.addEventListener("keyup", function() {
+
+  if(checkInputs(inputs)) {
+    button.disabled = false;
+  } else {
+    button.disabled = true;
+  }
+
+    });
+
+    });
+
+            function funcao1()
+            {
+                alert("Um e-mail foi enviado para que você possa recuperar a sua senha. Verifique a sua caixa de entrada.")
+            }
+
+        </script>
+        
+    </section>
+    
+        <nav>
+            <ul class="nav-links">
+                <li><a href="../html/aboutus.html">Sobre nós</a></li>
+                <li><a href="../html/howto.html">Como trocar livros?</a></li>
+                <li><a href="../html/privacy.html">Privacidade</a></li>
+                <li><a href="../html/contact.html">Contato</a></li>
+            </ul>
+        </nav>
+        <footer>
+            <p class="rights">Site produzido pelo time "Projeto - Troca de Livros". Direitos autorais reservados. </p>
+        </footer>
+        
+    </footer>
+    
+</body>
+
+</html>

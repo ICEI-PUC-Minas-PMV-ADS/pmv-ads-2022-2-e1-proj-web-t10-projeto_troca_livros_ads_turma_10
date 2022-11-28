@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+#form{
+    height: 50%;
+    width: 50%;
+    font-family: "Montserrat", sans-serif;
+
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    padding-top: 2%;
+}
+h3{
+    font-family: "Montserrat", sans-serif;
+    padding: 6%;
+}
+
+#button{
+    width: 150px;
+    height: 30px;
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    margin-top: 1%;
+    
+}
+#text{
+   
+    width: 250px;
+    height: 15px;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    margin-top: 1%;
+}
+#grid{
+    
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 90%;
+    height: 70%;
+    margin: 5%;
+}
+#boximg{
+    
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+    padding: 5%;
+    
+
+}
+#boximg > span{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border-radius: 25%;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.profileitens{
+    width: 200px;
+    height: 150px;
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-direction: column; 
+    margin: 20px;
+}
+.profileset li{
+    display: none;
+    color: black;
+}
+.profileset{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    height: 80%;
+    background: transparent;
+    background: rgba(255, 255, 255, 0.897);
+    border-radius: 5px;
+}
+#headerpesq{
+
+    padding-top: 5%;
+    padding-left: 8%;
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.897);
+    background: transparent;
+    font-size: 15px;
+    align-self:start;
+}

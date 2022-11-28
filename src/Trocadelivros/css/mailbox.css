@@ -1,0 +1,207 @@
+
+.profileset li{
+    display: none;
+    color: black;
+}
+
+.profileset{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    height: 80%;
+    background-color:rgb(240, 240, 240);
+    border-radius: 5px;
+}
+
+#grid{
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 90%;
+    height: 70%;
+}
+
+#inbox{
+    height: 851px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    flex-basis: 80%;
+    block-size: fit-content;
+}
+
+.inboxcards{
+    background: whitesmoke;
+    border-radius: 6px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    margin: auto 10px;
+
+}
+
+.inboxcards img {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.inboxcards h2 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.inboxscards p {
+    font-family: "Montserrat", sans-serif;
+    font-size: smaller;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%; 
+}
+
+.addbookscards {
+    background-color: whitesmoke;
+    border-radius: 6px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    margin: auto 10px;
+    block-size: fit-content;
+    box-sizing: border-box;
+}
+
+.addbookscards img{
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+#mailarea{
+    background-color: rgba(255, 255, 255, 0.897);
+    border-radius: 6px;
+    width: 85%;
+    height: 80%;
+    box-sizing: border-box;   
+}
+
+.mail{
+    text-align: center;
+    font-style: bold;
+    color: #24252A;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 80px;
+
+}
+.mybooks h2{
+    color: #24252A;
+    font-family: "Montserrat", sans-serif;
+}
+
+#text{
+    width: 200px;
+    height: 25px;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+#btnchat{
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-image: url("../assets/images/chat.png");
+    background-size: cover;
+    margin-left:700px ;
+    margin-top: 10px;
+    background-position: center;
+    right: 10px;
+    bottom:10px;
+}
+#chat{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 15%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    
+}
+#btnsend{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-image: url("../assets/images/send.png");
+    background-size: cover;
+    margin-left:700px ;
+    margin-top: 10px;
+    position: absolute;
+    right: 30px;
+    bottom:25px;
+}
+#textchat{
+    width: 200px;
+    height: 25px;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 10px;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+#messager{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 180px;
+    height: 150px;
+    border: solid 1px #999;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    padding: 10px 10px 0px 10px;
+
+}
+#messager>p{
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+   
+}
+#robo{
+    width: 30px;
+    height: 30px;
+    background-image: url("../assets/images/robo.png");
+    display: block;
+    background-size: contain;
+
+}

@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.profileset li{
+    display: none;
+    color: black;
+}
+
+.profileset{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    height: 80%;
+    background-color:rgb(240, 240, 240);
+    border-radius: 5px;
+}
+
+#grid{
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 90%;
+    height: 70%;
+}
+
+#inbox{
+    height: 851px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    flex-basis: 80%;
+    block-size: fit-content;
+}
+
+.inboxcards{
+    background: whitesmoke;
+    border-radius: 6px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    margin: auto 10px;
+
+}
+
+.inboxcards img {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.inboxcards h2 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.inboxscards p {
+    font-family: "Montserrat", sans-serif;
+    font-size: smaller;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
+
+.addbookscards {
+    background-color: #bdd8f3;
+    border-radius: 6px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    margin: auto 10px;
+    block-size: fit-content;
+    box-sizing: border-box;
+    
+}
+
+.addbookscards img{
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#mailarea{
+    background-color: rgba(255, 255, 255, 0.897);
+    border-radius: 6px;
+    width: 85%;
+    height: 95%;
+    box-sizing: border-box;   
+   
+}
+
+#header{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.897);
+    background: transparent;
+    font-size: 15px;
+}
+
+.mail{
+    text-align: center;
+    font-style: bold;
+    color: #24252A;
+    font-family: "Montserrat", sans-serif;
+    margin: 20px;
+}
+
+
+#text{
+   
+    width: 200px;
+    height: 25px;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+.filter{
+    margin-top: 10px;
+    column-count: 3;
+    text-align: center;
+    font-style: bold;
+    color: #24252A;
+    font-family: "Montserrat", sans-serif;
+}
+
+.result1{
+    margin-top: 20px;
+    column-count: 3;
+}
+
+.result1 img {
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.result2{
+    margin-top: 15px;
+    column-count: 3;
+}
+
+.result2 img {
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.newsearch{
+    text-align: center;
+    font-style: bold;
+    color: #24252A;
+    font-family: "Montserrat", sans-serif;
+}
+
+.btn-search{
+    padding: 10px 30px;
+    width: 20%;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+}

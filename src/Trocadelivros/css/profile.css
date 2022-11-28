@@ -1,0 +1,164 @@
+
+.profileset li{
+    display: none;
+    color: black;
+}
+
+.profileset{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    height: 80%;
+    background-color:rgb(240, 240, 240);
+    border-radius: 5px;
+}
+
+#grid{
+    display:flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 90%;
+    height: 70%;
+}
+
+#books{
+    height: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.bookscards{
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    border-radius: 6px;
+    margin: 10px;
+    width: 20%;
+    height: 70%;
+    padding: 1%;
+}
+
+.bookscards img {
+    width: 70px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+.bookscards h3 {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.bookscards p {
+    font-family: "Montserrat", sans-serif;
+    font-size: smaller;
+    margin-top: 10px;
+    text-align: left;
+    height: 40%;
+    width: 70%;
+}
+
+.addbookscards {
+    background-color: #bdd8f3;
+    border-radius: 6px;
+    width: 70%;
+    height: 50%;
+    
+}
+
+.addbookscards img{
+    width: 60%;
+    height: 90%;
+    
+}
+
+#booksarea{
+    background-color: rgba(255, 255, 255, 0.897);
+    border-radius: 6px;
+    width: 90%;
+    height: 90%;
+    box-sizing: border-box;   
+    margin-top: 5%;
+    padding: 5%;
+}
+
+#headerpesq{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.897);
+    background: transparent;
+    font-size: 15px;
+    max-height: 10%;
+    
+}
+
+#bio{
+     
+    display: block;
+    height: 40%;
+    font-family: "Montserrat", sans-serif;
+    padding: 1%;
+    border: solid 1px #109fffef;
+    border-radius: 20px;
+    color: black;
+}
+
+.btn-addbook{
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    border: none;
+    padding: 1%;
+    border-radius: 10px;
+    align-items: flex-end;
+    
+}
+.btn-search{
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    border: none;
+    padding: 1%;
+    border-radius: 10px;
+    border-radius: 10px;
+    align-items: flex-end;
+    width: 25%;
+    
+    
+}
+
+.btn-addbook a{
+    color: #24252A;
+}
+
+.mybooks{
+    text-align: center;
+    font-style: bold;
+    margin-top: 10px;
+    height: 20%;
+    padding: 2%;
+
+}
+
+.mybooks h2{
+    color: #24252A;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+
+}
+
+#text{
+   
+    width: 200px;
+    height: 25px;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="with=device-width, initial scale=1.0">
+    <title>Fora da Estante</title>
+    <link rel="stylesheet" href="..\css\style.css">
+    <link rel="stylesheet" href="..\css\base.css">
+    <link rel="stylesheet" href="..\css\books.css">
+
+</head>
+<body>
+    <header>
+        <a href="../html/profile.html"><img class="logo" src="../assets/images/foradaestante1.png" alt="logo"></a>   
+    </header>
+    <section class="main">
+       <div id="books">
+            <div class="bookinfo">
+                <section class="imgbook">
+                    <img src="..\assets\images\HP.jpeg" alt="livro">
+                </section>
+                <section class="infobook">
+                    <h1>Harry Potter e a Pedra Filosofal</h1>
+
+                    <img id="rate" src="../assets/images/5-estrelas.png"></img>
+                    <img id="rate" src="../assets/images/troca.png" onclick="funcao1()"></img>
+                    <h3>Sinopse</h3>
+                    <p>
+                        Conheça Harry, filho de Tiago e Lílian Potter, feiticeiros que foram assassinados por um poderosíssimo bruxo, quando ele ainda era um bebê. Com isso, o menino acaba sendo levado para a casa dos tios que nada tinham a ver com o sobrenatural pelo contrário. Até os 10 anos, Harry foi uma espécie de gata borralheira: maltratado pelos tios, herdava roupas velhas do primo gorducho, tinha óculos remendados e era tratado como um estorvo. No dia de seu aniversário de 11 anos, entretanto, ele parece deslizar por um buraco sem fundo, como o de Alice no país das maravilhas, que o conduz a um mundo mágico. Descobre sua verdadeira história e seu destino: ser um aprendiz de feiticeiro até o dia em que terá que enfrentar a pior força do mal, o homem que assassinou seus pais, o terrível Lorde das Trevas.
+                        O menino de olhos verdes, magricela e desengonçado, tão habituado à rejeição, descobre, também, que é um herói no universo dos magos. Potter fica sabendo que é a única pessoa a ter sobrevivido a um ataque do tal bruxo do mal e essa é a causa da marca em forma de raio que ele carrega na testa. Ele não é um garoto qualquer, ele sequer é um feiticeiro qualquer; ele é Harry Potter, símbolo de poder, resistência e um líder natural entre os sobrenaturais.
+                    </p>
+                </section>
+            </div>
+            <div class="bookreview">
+                <article class="review">
+                    <h3 id =reviewtag>Resenha </h3>
+                    <a href="../html/userpage.html"><h4 id =reviewtag>Júlia</h4> </a>
+                    <p>
+                        Uma leitura mágica.
+                        Sempre gostei dos filmes ( Harry Potter e a pedra filosofal é um dos meus preferidos ), adorava ver o Harry e seus amigos crescendo e conhecendo o mundo de Hogwarts, mas sempre fiquei com um pé atrás em relação aos livros, pois achava que não teria graça depois de já ter conhecido a história, mas felizmente eu fiquei mais encantada ainda, foi muito bom poder ver essa fantasia de outra forma e com muito mais detalhes. É engraçado como em alguns momentos na leitura eu escutava as vozes dos personagens dos filmes, parecia loucura KAKAKAKAKAK. Estou ansiosa pelos próximos livros.  
+                    </p>
+                </article>
+            </div>
+
+                <div class="comentsadd">
+                    <form >
+                        <input type="text-area" placeholder="insira seu comentário aqui" required>
+                        <button class="btn-addcoment">Adicionar Comentario</button>
+                    </form>
+                </div>
+
+                <div class="coments">
+                    <section class="imgcoments">
+                        <img src="..\assets\images\alex.jpeg" alt="Foto do usuário">
+                    </section>
+                    <section class="contetntcoments">
+                        <a id="user" href="../html/userpage.html"><h3>Alex</h3></a>
+                        <p>A história foi incrível, personagens e cenários bem detalhados, palavras bonitas, tudo de bom! Adoreii!!! Dá vontade de entrar na história... Pena que não posso ???</p>
+                    </section>
+                </div>
+                <div class="coments">
+                    <section class="imgcoments">
+                        <img src="..\assets\images\Daniela.jpg" alt="Foto do usuário">
+                    </section>
+                    <section class="contetntcoments">
+                        <a id="user"href="../html/userpage.html"><h3>Daniela</h3></a>
+                        <p>Na minha opinião,
+                            Esse livro foi meio cansativo, a história é incrível, Hogwarts é maravilhosa, porém a escrita acaba por nos cansar em várias partes.</p>
+                    </section>
+                </div>
+            
+        </div>
+        <script>
+            function funcao1()
+            {
+                alert("Sua solicitação de troca foi enviada com sucesso!")
+            }
+
+        </script>
+    </section>
+    
+        <nav>
+            <ul class="nav-links">
+                <li><a href="../html/aboutus.html">Sobre nós</a></li>
+                <li><a href="../html/howto.html">Como trocar livros?</a></li>
+                <li><a href="../html/privacy.html">Privacidade</a></li>
+                <li><a href="../html/contact.html">Contato</a></li>
+            </ul>
+        </nav>
+        <footer>
+            <p class="rights">Site produzido pelo time "Projeto - Troca de Livros". Direitos autorais reservados. </p>
+        </footer>
+        
+    </body>
+
+</html>

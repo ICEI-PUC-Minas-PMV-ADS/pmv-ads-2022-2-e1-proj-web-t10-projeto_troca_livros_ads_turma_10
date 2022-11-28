@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+#userpage{
+    margin: 2%;
+    background-color: rgba(255, 255, 255, 0.897);
+    border-radius: 6px;
+    min-width: 96%;
+}
+
+#infouser{
+    text-align: center;
+}
+
+#infouser img{
+    margin-top: 2%;
+    width: 10%;
+    border-radius: 100%;
+}
+
+#infouser h2, #infouser p{
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+}
+
+#books{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    flex-wrap: wrap;  
+    max-height: 600px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+.bookscards{
+    background: linear-gradient(to right, #109fffef, #97fcdd);
+    border-radius: 6px;
+    margin: 10px;
+    width: 200px;
+    height: 350px;
+    margin: auto 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bookscards img {
+    width: 90px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+.bookscards h2 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.bookscards p {
+    font-family: "Montserrat", sans-serif;
+    font-size: smaller;
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#bio{
+     
+    height: 40%;
+    width: 60%;
+    font-family: "Montserrat", sans-serif;
+    padding: 1%;
+    border: solid 1px #109fffef;
+    border-radius: 20px;
+    color: black;
+    margin-left: 20%;
+    margin-top:1%
+    
+}
